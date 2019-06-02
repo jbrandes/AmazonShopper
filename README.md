@@ -1,2 +1,2 @@
-# AmazonShopper
-A Python backend  will connect shoppers to the Amazon API and allow them to order items with a digital helper.
+# QuickCart
+A small Python program that uses a chatbot to create a grocery list for the user which can be found on their computer in a text file after the program has ended.
