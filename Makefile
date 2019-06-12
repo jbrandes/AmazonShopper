@@ -1,10 +1,10 @@
 all:
 
-	python QuickCart.py
+	python Shopping.py
 
 run:
 
-	python QuickCart.py
+	python Shopping.py
 
 clean: 
-	rm QuickCart.py
+	rm Shopping.py
